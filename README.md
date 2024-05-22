@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I started out as a Frontend Developer in React and Angular. Gradually learning Backend & DevOps technologies starting with Docker & Go
+I started as a front-end developer in React and Angular. Gradually learning Backend & DevOps technologies starting with Docker & Go
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [nikhilbhutani999@gmail.com](mailto:nikhilbhutani999@gmail.com)
 * 🧠  I'm learning Go, Docker, Next.js
-* 🤝  I'm open to collaborating on Full stack projects with fascinating architectures.
+* 🤝  I'm open to collaborating on Full-stack projects with fascinating architectures.
 * ⚡  I like casual gaming.
 
 ### Skills
